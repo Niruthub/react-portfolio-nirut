@@ -1,10 +1,6 @@
-### Description
+### งาน React - Profile
 
-A simple portfolio template for developer/designers built with React. 
-
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
-
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+- เอา simple portfolio template  มาต่อยอด 
 
 ### Features
 
@@ -13,26 +9,13 @@ A simple portfolio template for developer/designers built with React.
 - Contact Form With EmailJs
 - React-Bootstrap
 - Edit Content From One Place
+##
+### Website : [🌐 react-portfolio-nirut 🌐](https://react-portfolio-nirut.vercel.app/) 
 
-### Setup
-
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
+##
+### Hosting By Vercel
+- https://vercel.com/
+#
+- 🧑‍💻 นิรุท คุณวงค์ 6303051623055
 
 
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
