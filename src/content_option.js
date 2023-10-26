@@ -11,69 +11,82 @@ const introdata = {
         second: "This website is a template profile.",
         third: "สวัสดี เราชื่อ นิรุท! 😂",
     },
-    description: "เรื่องราวของเด็กหนุ่มที่มีความฝัน อยากเป็นโปรแกรมเมอร์ มีเงินเลี้ยงชีพ ใช้ชีวิตอย่างสงบสุข ",
-    your_img_url: "https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/393258177_7040690205987848_4406289063087495909_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE2ixnT2enzBHazA0ozF3SDODByBriOgEE4MHIGuI6AQbSiTOGiA0KCSWsrC0Rk-JoPhH3n3BtXCs7lI4I2Skb8&_nc_ohc=fDy2xKmBBkMAX_Ox0tY&_nc_ht=scontent.fbkk5-4.fna&oh=00_AfCqmYkwbSDUzmxG-pGG9wxqvZ-MShTPt5g23B1Ht751Ow&oe=653A4D84",
-    your_img_url_2: "https://media.discordapp.net/attachments/738013225836347493/1163392030219718757/000051.JPG?ex=6548a2c2&is=65362dc2&hm=15d9a3a9d4cc5b324541b451cd301abe9cdbbba2bd7af12db1b19ab76c49bc97&=&width=1004&height=671",
+    description:
+        "เรื่องราวของเด็กหนุ่มที่มีความฝัน อยากเป็นโปรแกรมเมอร์ มีเงินเลี้ยงชีพ ใช้ชีวิตอย่างสงบสุข ",
+    your_img_url:
+        "https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/393258177_7040690205987848_4406289063087495909_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE2ixnT2enzBHazA0ozF3SDODByBriOgEE4MHIGuI6AQbSiTOGiA0KCSWsrC0Rk-JoPhH3n3BtXCs7lI4I2Skb8&_nc_ohc=fDy2xKmBBkMAX_Ox0tY&_nc_ht=scontent.fbkk5-4.fna&oh=00_AfCqmYkwbSDUzmxG-pGG9wxqvZ-MShTPt5g23B1Ht751Ow&oe=653A4D84",
+    your_img_url_2:
+        "https://media.discordapp.net/attachments/738013225836347493/1163392030219718757/000051.JPG?ex=6548a2c2&is=65362dc2&hm=15d9a3a9d4cc5b324541b451cd301abe9cdbbba2bd7af12db1b19ab76c49bc97&=&width=1004&height=671",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "กิจกรรมเสริม ต่างๆ",
+    aboutme:
+        "สมัยเรียน มัธยม ต้น เคยได้ร่วม ชมรม วงดนตรีออร์เคสตรา จึงพอมีประสบการณ์ด้าน ดนตรี อ่านโน๊ตดนตรีได้บ้าง ช่วงที่เรียน ปวช. ก็ได้ร่วมชมรมเกี่ยวกับ ผู้นำ ตรวจวินัย รด. มีประสบการณ์ พบเจอผู้คน โบกรถจราจร งานกิจกรรมทำงานเป็นทีม เป็นผู้นำ วางแผนต่างๆ เป็นต้น",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+const worktimeline = [
+    {
+        jobtitle: "ฝึกงาน (หน้าร้าน)",
+        where: "หจก.อุบลคอมเวิลด์",
+        date: "2561",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle:
+            "เข้าร่วมการแข่งขันทักษะวิชาการต่างๆ ของวิทยาลัย แผนก คอมพิวเตอร์",
+        where: "วิทยาลัยเทคนิคอุบลราชธานี",
+        date: "2560 - 2562",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "ฝึกงาน สหกิจ",
+        where: "CODEMONDAY CO., LTD.",
+        date: "2566",
     },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
+const skills = [
+    {
+        name: "Dart",
+        value: 85,
     },
     {
-        name: "Djano",
+        name: "Java",
         value: 85,
     },
     {
         name: "Javascript",
+        value: 75,
+    },
+    {
+        name: "Python",
         value: 80,
     },
+
     {
         name: "React",
         value: 60,
     },
+];
+
+const services = [
     {
-        name: "Jquery",
-        value: 85,
+        title: "งานกลุ่ม LITTLE BUDDY Mobile Application",
+        description:
+            "คืองานกลุ่มส่วนนึงของวิชา Software Engineering เป็น mini Project ทำเป็นแอปพลิเคชั่นตามความต้องการลูกค้า",
+    },
+    {
+        title: "งาน เว็บบันทึกรายรับ-รายจ่าย",
+        description:
+            "คืองานกลุ่มส่วนนึงของวิชา MOBILE AND CLOUD COMPUTING ซึ่งจะทำกับเพื่อน 4 คนกับเพื่อน แบ่งเป็น Backend, Frontend, API, Database",
+    },
+    {
+        title: "Mobile Application Introduces Cooking Preparations",
+        description:
+            "เป็นโปรเจคจบ ทำแอปพลิเคชัน และ เว็บไซต์ เกี่ยวกับ คอมมูนิตี้คนชอบทำอาหาร โดยที่มีฟีเจอร์ต่างๆมากมาย เช่น คำนวนแคลอรี่, แสดงราคาจากหน้าเว็บ, แสดงรูปวัตถุดิบ เป็นต้น",
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+const dataportfolio = [
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-];
-
-const dataportfolio = [{
         img: "https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.6435-9/101798035_2764667653761405_5461048376343590831_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeGSO5-sFQ2gP8G0JBwcjFFO6MMcvikc2kzowxy-KRzaTFw1OXhZgEiZJJ22T0hHMrlzV7-cMd_1Wsy5KVCDUYg8&_nc_ohc=Z6qBH1ynkiIAX-bnNDy&_nc_ht=scontent.fbkk5-4.fna&oh=00_AfAyvN4NOlbILJ6S-_3voqAPaTZRDMEsF1xkW-DKovLUAA&oe=655DC5FA",
         description: "ช่วยงาน รด. ตรวจวินัย",
         link: "https://www.facebook.com/photo.php?fbid=2764667650428072&set=t.100001408142715&type=3",
@@ -137,10 +150,11 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
+    YOUR_EMAIL: "nirut2008.okdd@gmail.com",
+    YOUR_FONE: "(+66)63-084-5008",
+    description:
+        "เป็นแค่การทดสอบเฉยๆ ยังส่งเมลจริงไม่ได้หลอก ติดต่อ ทัก Facebook. มาได้เลย 😂",
+    // creat an emailjs.com account
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",

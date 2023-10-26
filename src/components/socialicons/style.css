@@ -20,12 +20,12 @@
 }
 
 .stick_follow_icon p {
-    top: 70px;
-    left: -24px;
+    top: 80px;
+    left: -14px;
     width: 68px;
-    height: 20px;
+    height: 28px;
     color: var(--text-color);
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 600;
     line-height: 1.2;
     white-space: nowrap;
@@ -35,7 +35,7 @@
 
 .stick_follow_icon ul li {
     display: block;
-    font-size: 12px;
+    font-size: 28px;
     text-align: center;
     margin-bottom: 10px;
     transition: all .3s;
@@ -44,7 +44,7 @@
 .stick_follow_icon p:after {
     top: 9px;
     right: -48px;
-    width: 40px;
+    width: 20px;
     height: 1px;
     content: "";
     display: block;
