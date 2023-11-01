@@ -14,7 +14,7 @@ const introdata = {
     description:
         "เรื่องราวของเด็กหนุ่มที่มีความฝัน อยากเป็นโปรแกรมเมอร์ มีเงินเลี้ยงชีพ ใช้ชีวิตอย่างสงบสุข ",
     your_img_url:
-        "https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/393258177_7040690205987848_4406289063087495909_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE2ixnT2enzBHazA0ozF3SDODByBriOgEE4MHIGuI6AQbSiTOGiA0KCSWsrC0Rk-JoPhH3n3BtXCs7lI4I2Skb8&_nc_ohc=fDy2xKmBBkMAX_Ox0tY&_nc_ht=scontent.fbkk5-4.fna&oh=00_AfCqmYkwbSDUzmxG-pGG9wxqvZ-MShTPt5g23B1Ht751Ow&oe=653A4D84",
+        "https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/393258177_7040690205987848_4406289063087495909_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X2-8VdlTRRkAX8xUIg9&_nc_ht=scontent.fbkk5-4.fna&oh=00_AfBRlST3d5DPMm5bMGqkAEcTqcQ0lhL3LdnmoVop-41M5w&oe=65462B04",
     your_img_url_2:
         "https://media.discordapp.net/attachments/738013225836347493/1163392030219718757/000051.JPG?ex=6548a2c2&is=65362dc2&hm=15d9a3a9d4cc5b324541b451cd301abe9cdbbba2bd7af12db1b19ab76c49bc97&=&width=1004&height=671",
 };
